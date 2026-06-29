@@ -2,7 +2,7 @@
 
 シンプルな縦書きのテキストエディタです。Macで動作するデスクトップアプリ(Electron製)で、余計な機能を削ぎ落とし、執筆そのものに集中できることを目指しています。
 
-![screenshot](screenshot.png)
+![screenshot](screenshot1.png)
 
 ## 主な機能
 
